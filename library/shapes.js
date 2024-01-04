@@ -1,4 +1,3 @@
-Copy code
 // Parent class Shape
 class Shape {
     constructor(color, text, textColor){
